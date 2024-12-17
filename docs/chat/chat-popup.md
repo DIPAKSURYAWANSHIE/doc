@@ -8,8 +8,7 @@ sidebar_label: Chat popup
 
 Operator also by default can open chat in popup by clicking ![](/img/chat/chat-popup.png). 
 
-## Permissions
 
 Required permissions
 
-> 'lhchat','singlechatwindow'
+> 'lhchat','singlechatwindow
